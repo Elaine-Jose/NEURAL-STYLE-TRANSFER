@@ -61,6 +61,10 @@ Preserving content structure while the highly intricate styles are being applied
 Conclusion
 This work serves to demonstrate the possibility of performing creativity with the pre-trained deep networks like neural style transfer. From the perspective of a layman, TensorFlow Hub hides all the low-level stuff concerning neural network deployment so that artistic images can be created in just a few lines of code. Being modular, it is easy to extend for batch processing or as a useful building block for bigger multimedia applications.
 
+*INPUT*
+
+![Image](https://github.com/user-attachments/assets/0b20d3db-eb0f-4ba3-9842-5fcb10a70fa8)
+
 *OUTPUT*
 
 ![Image](https://github.com/user-attachments/assets/df5a2808-7044-45c9-8767-36b2e45e2da0)
