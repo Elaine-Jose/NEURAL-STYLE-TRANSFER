@@ -64,6 +64,7 @@ This work serves to demonstrate the possibility of performing creativity with th
 *INPUT*
 
 ![Image](https://github.com/user-attachments/assets/0b20d3db-eb0f-4ba3-9842-5fcb10a70fa8)
+<img width="295" alt="Image" src="https://github.com/user-attachments/assets/e4c00b67-239d-48c0-bb1f-225f03c1968e" />
 
 *OUTPUT*
 
